@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\giona\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\giona\\.nuget\\packages"
+    ]
+  }
+}
